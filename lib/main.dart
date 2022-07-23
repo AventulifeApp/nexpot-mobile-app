@@ -33,8 +33,6 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
-    const flavor = String.fromEnvironment('FLAVOR');
-    print(flavor);
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),
