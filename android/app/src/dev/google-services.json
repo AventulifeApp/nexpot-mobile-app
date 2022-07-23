@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "285826839979",
+    "project_id": "nexpot-dev",
+    "storage_bucket": "nexpot-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285826839979:android:75ad9baa6a884ff3bf4eee",
+        "android_client_info": {
+          "package_name": "com.aventulife.nexpot.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285826839979-f0lva0cmtlnmgrflvm2k36up8hdf8op8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeJkffPflGb5GTBV3JZ8Sa03UC9Z2OHyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285826839979-f0lva0cmtlnmgrflvm2k36up8hdf8op8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "285826839979-p13n504rt1594bmmng4e3n9ovps7bcr4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aventulife.nexpot.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

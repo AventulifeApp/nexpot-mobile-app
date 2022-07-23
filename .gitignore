@@ -45,3 +45,6 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 .fvm/flutter_sdk
+**/android/app/google-services.json
+**/ios/Flutter/DartDefines.xcconfig
+**/ios/GoogleService-Info.plist
