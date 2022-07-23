@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.aventulife.nexpot</string>
+	<string>com.aventulife.nexpot.dev</string>
 	<key>PROJECT_ID</key>
 	<string>nexpot-dev</string>
 	<key>STORAGE_BUCKET</key>
