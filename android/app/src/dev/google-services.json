@@ -31,10 +31,10 @@
               "client_type": 3
             },
             {
-              "client_id": "285826839979-p13n504rt1594bmmng4e3n9ovps7bcr4.apps.googleusercontent.com",
+              "client_id": "285826839979-6ghagv6ae3o70srog6q9cqfqe22emok6.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.aventulife.nexpot.dev"
+                "bundle_id": "com.aventulife.nexpot"
               }
             }
           ]
